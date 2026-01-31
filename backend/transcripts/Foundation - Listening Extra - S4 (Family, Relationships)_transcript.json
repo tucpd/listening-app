@@ -1,0 +1,3298 @@
+{
+  "text": "One of my best friends is a guy called Raul. I met him at uni in Barcelona where we were in the same study group. When was that? I suppose it was over 10 years ago now, so yes, we've known each other for a good decade. We got to know each other on the tennis courts because the first few days of our course were so boring that we both decided we'd be better off outside playing tennis. What kind of person is he? He's very active, a sporty type, involved in hiking and mountain biking, a bit of an adrenaline junkie. He's also a very determined person. When he gets into something, he gives 100%. And he changes passions often. That makes him a bit of a self-absorbed person, actually, which I'd say is a drawback. And I think he comes across as full of himself sometimes. I'm in a bit too sure of his own opinions. As for why I like him, well, he's actually quite different from me. At uni, he'd often suggest doing something and I'd go along with it. And because I'm laid back, I never felt overwhelmed by him. We've never fallen out or anything. How often do you see your friend? Well, because we live in different countries, we don't see each other that often. But we try to catch up on a fairly regular basis, say three times a year.",
+  "words": [
+    {
+      "word": "One",
+      "start": 0.0,
+      "end": 0.24
+    },
+    {
+      "word": "of",
+      "start": 0.24,
+      "end": 0.4
+    },
+    {
+      "word": "my",
+      "start": 0.4,
+      "end": 0.58
+    },
+    {
+      "word": "best",
+      "start": 0.58,
+      "end": 0.94
+    },
+    {
+      "word": "friends",
+      "start": 0.94,
+      "end": 1.36
+    },
+    {
+      "word": "is",
+      "start": 1.36,
+      "end": 1.78
+    },
+    {
+      "word": "a",
+      "start": 1.78,
+      "end": 1.92
+    },
+    {
+      "word": "guy",
+      "start": 1.92,
+      "end": 2.1
+    },
+    {
+      "word": "called",
+      "start": 2.1,
+      "end": 2.56
+    },
+    {
+      "word": "Raul.",
+      "start": 2.56,
+      "end": 3.0
+    },
+    {
+      "word": "I",
+      "start": 3.7,
+      "end": 4.14
+    },
+    {
+      "word": "met",
+      "start": 4.14,
+      "end": 4.3
+    },
+    {
+      "word": "him",
+      "start": 4.3,
+      "end": 4.48
+    },
+    {
+      "word": "at",
+      "start": 4.48,
+      "end": 4.64
+    },
+    {
+      "word": "uni",
+      "start": 4.64,
+      "end": 4.88
+    },
+    {
+      "word": "in",
+      "start": 4.88,
+      "end": 5.18
+    },
+    {
+      "word": "Barcelona",
+      "start": 5.18,
+      "end": 5.74
+    },
+    {
+      "word": "where",
+      "start": 5.74,
+      "end": 6.28
+    },
+    {
+      "word": "we",
+      "start": 6.28,
+      "end": 6.46
+    },
+    {
+      "word": "were",
+      "start": 6.46,
+      "end": 6.62
+    },
+    {
+      "word": "in",
+      "start": 6.62,
+      "end": 6.74
+    },
+    {
+      "word": "the",
+      "start": 6.74,
+      "end": 6.86
+    },
+    {
+      "word": "same",
+      "start": 6.86,
+      "end": 7.08
+    },
+    {
+      "word": "study",
+      "start": 7.08,
+      "end": 7.48
+    },
+    {
+      "word": "group.",
+      "start": 7.48,
+      "end": 7.92
+    },
+    {
+      "word": "When",
+      "start": 8.56,
+      "end": 8.9
+    },
+    {
+      "word": "was",
+      "start": 8.9,
+      "end": 9.08
+    },
+    {
+      "word": "that?",
+      "start": 9.08,
+      "end": 9.3
+    },
+    {
+      "word": "I",
+      "start": 10.5,
+      "end": 10.72
+    },
+    {
+      "word": "suppose",
+      "start": 10.72,
+      "end": 11.3
+    },
+    {
+      "word": "it",
+      "start": 11.3,
+      "end": 11.7
+    },
+    {
+      "word": "was",
+      "start": 11.7,
+      "end": 11.82
+    },
+    {
+      "word": "over",
+      "start": 11.82,
+      "end": 12.1
+    },
+    {
+      "word": "10",
+      "start": 12.1,
+      "end": 12.5
+    },
+    {
+      "word": "years",
+      "start": 12.5,
+      "end": 12.86
+    },
+    {
+      "word": "ago",
+      "start": 12.86,
+      "end": 13.2
+    },
+    {
+      "word": "now,",
+      "start": 13.2,
+      "end": 13.46
+    },
+    {
+      "word": "so",
+      "start": 13.46,
+      "end": 13.86
+    },
+    {
+      "word": "yes,",
+      "start": 13.86,
+      "end": 14.68
+    },
+    {
+      "word": "we've",
+      "start": 15.32,
+      "end": 15.66
+    },
+    {
+      "word": "known",
+      "start": 15.66,
+      "end": 15.78
+    },
+    {
+      "word": "each",
+      "start": 15.78,
+      "end": 16.1
+    },
+    {
+      "word": "other",
+      "start": 16.1,
+      "end": 16.3
+    },
+    {
+      "word": "for",
+      "start": 16.3,
+      "end": 16.5
+    },
+    {
+      "word": "a",
+      "start": 16.5,
+      "end": 16.6
+    },
+    {
+      "word": "good",
+      "start": 16.6,
+      "end": 16.8
+    },
+    {
+      "word": "decade.",
+      "start": 16.8,
+      "end": 17.42
+    },
+    {
+      "word": "We",
+      "start": 18.18,
+      "end": 18.74
+    },
+    {
+      "word": "got",
+      "start": 18.74,
+      "end": 18.86
+    },
+    {
+      "word": "to",
+      "start": 18.86,
+      "end": 19.02
+    },
+    {
+      "word": "know",
+      "start": 19.02,
+      "end": 19.16
+    },
+    {
+      "word": "each",
+      "start": 19.16,
+      "end": 19.38
+    },
+    {
+      "word": "other",
+      "start": 19.38,
+      "end": 19.58
+    },
+    {
+      "word": "on",
+      "start": 19.58,
+      "end": 19.7
+    },
+    {
+      "word": "the",
+      "start": 19.7,
+      "end": 19.8
+    },
+    {
+      "word": "tennis",
+      "start": 19.8,
+      "end": 20.04
+    },
+    {
+      "word": "courts",
+      "start": 20.04,
+      "end": 20.42
+    },
+    {
+      "word": "because",
+      "start": 20.42,
+      "end": 21.22
+    },
+    {
+      "word": "the",
+      "start": 21.22,
+      "end": 21.38
+    },
+    {
+      "word": "first",
+      "start": 21.38,
+      "end": 21.66
+    },
+    {
+      "word": "few",
+      "start": 21.66,
+      "end": 21.92
+    },
+    {
+      "word": "days",
+      "start": 21.92,
+      "end": 22.24
+    },
+    {
+      "word": "of",
+      "start": 22.24,
+      "end": 22.44
+    },
+    {
+      "word": "our",
+      "start": 22.44,
+      "end": 22.54
+    },
+    {
+      "word": "course",
+      "start": 22.54,
+      "end": 22.9
+    },
+    {
+      "word": "were",
+      "start": 22.9,
+      "end": 23.1
+    },
+    {
+      "word": "so",
+      "start": 23.1,
+      "end": 23.36
+    },
+    {
+      "word": "boring",
+      "start": 23.36,
+      "end": 23.84
+    },
+    {
+      "word": "that",
+      "start": 23.84,
+      "end": 24.5
+    },
+    {
+      "word": "we",
+      "start": 24.5,
+      "end": 24.62
+    },
+    {
+      "word": "both",
+      "start": 24.62,
+      "end": 24.86
+    },
+    {
+      "word": "decided",
+      "start": 24.86,
+      "end": 25.48
+    },
+    {
+      "word": "we'd",
+      "start": 25.48,
+      "end": 25.76
+    },
+    {
+      "word": "be",
+      "start": 25.76,
+      "end": 25.86
+    },
+    {
+      "word": "better",
+      "start": 25.86,
+      "end": 26.24
+    },
+    {
+      "word": "off",
+      "start": 26.24,
+      "end": 26.54
+    },
+    {
+      "word": "outside",
+      "start": 26.54,
+      "end": 27.0
+    },
+    {
+      "word": "playing",
+      "start": 27.0,
+      "end": 27.42
+    },
+    {
+      "word": "tennis.",
+      "start": 27.42,
+      "end": 27.8
+    },
+    {
+      "word": "What",
+      "start": 28.66,
+      "end": 29.3
+    },
+    {
+      "word": "kind",
+      "start": 29.3,
+      "end": 29.52
+    },
+    {
+      "word": "of",
+      "start": 29.52,
+      "end": 29.68
+    },
+    {
+      "word": "person",
+      "start": 29.68,
+      "end": 30.08
+    },
+    {
+      "word": "is",
+      "start": 30.08,
+      "end": 30.3
+    },
+    {
+      "word": "he?",
+      "start": 30.3,
+      "end": 30.5
+    },
+    {
+      "word": "He's",
+      "start": 31.16,
+      "end": 31.62
+    },
+    {
+      "word": "very",
+      "start": 31.62,
+      "end": 31.76
+    },
+    {
+      "word": "active,",
+      "start": 31.76,
+      "end": 32.32
+    },
+    {
+      "word": "a",
+      "start": 32.66,
+      "end": 32.76
+    },
+    {
+      "word": "sporty",
+      "start": 32.76,
+      "end": 33.12
+    },
+    {
+      "word": "type,",
+      "start": 33.12,
+      "end": 33.58
+    },
+    {
+      "word": "involved",
+      "start": 34.0,
+      "end": 34.3
+    },
+    {
+      "word": "in",
+      "start": 34.3,
+      "end": 34.54
+    },
+    {
+      "word": "hiking",
+      "start": 34.54,
+      "end": 34.94
+    },
+    {
+      "word": "and",
+      "start": 34.94,
+      "end": 35.26
+    },
+    {
+      "word": "mountain",
+      "start": 35.26,
+      "end": 35.58
+    },
+    {
+      "word": "biking,",
+      "start": 35.58,
+      "end": 36.04
+    },
+    {
+      "word": "a",
+      "start": 36.72,
+      "end": 36.78
+    },
+    {
+      "word": "bit",
+      "start": 36.78,
+      "end": 36.98
+    },
+    {
+      "word": "of",
+      "start": 36.98,
+      "end": 37.2
+    },
+    {
+      "word": "an",
+      "start": 37.2,
+      "end": 37.3
+    },
+    {
+      "word": "adrenaline",
+      "start": 37.3,
+      "end": 37.74
+    },
+    {
+      "word": "junkie.",
+      "start": 37.74,
+      "end": 38.54
+    },
+    {
+      "word": "He's",
+      "start": 39.28,
+      "end": 39.64
+    },
+    {
+      "word": "also",
+      "start": 39.64,
+      "end": 39.96
+    },
+    {
+      "word": "a",
+      "start": 39.96,
+      "end": 40.12
+    },
+    {
+      "word": "very",
+      "start": 40.12,
+      "end": 40.36
+    },
+    {
+      "word": "determined",
+      "start": 40.36,
+      "end": 40.94
+    },
+    {
+      "word": "person.",
+      "start": 40.94,
+      "end": 41.62
+    },
+    {
+      "word": "When",
+      "start": 42.42,
+      "end": 42.68
+    },
+    {
+      "word": "he",
+      "start": 42.68,
+      "end": 42.8
+    },
+    {
+      "word": "gets",
+      "start": 42.8,
+      "end": 42.94
+    },
+    {
+      "word": "into",
+      "start": 42.94,
+      "end": 43.26
+    },
+    {
+      "word": "something,",
+      "start": 43.26,
+      "end": 43.7
+    },
+    {
+      "word": "he",
+      "start": 44.14,
+      "end": 44.16
+    },
+    {
+      "word": "gives",
+      "start": 44.16,
+      "end": 44.4
+    },
+    {
+      "word": "100%.",
+      "start": 44.4,
+      "end": 46.18
+    },
+    {
+      "word": "And",
+      "start": 46.18,
+      "end": 46.86
+    },
+    {
+      "word": "he",
+      "start": 46.86,
+      "end": 47.08
+    },
+    {
+      "word": "changes",
+      "start": 47.08,
+      "end": 47.48
+    },
+    {
+      "word": "passions",
+      "start": 47.48,
+      "end": 47.96
+    },
+    {
+      "word": "often.",
+      "start": 47.96,
+      "end": 48.48
+    },
+    {
+      "word": "That",
+      "start": 49.3,
+      "end": 49.52
+    },
+    {
+      "word": "makes",
+      "start": 49.52,
+      "end": 49.72
+    },
+    {
+      "word": "him",
+      "start": 49.72,
+      "end": 49.94
+    },
+    {
+      "word": "a",
+      "start": 49.94,
+      "end": 50.04
+    },
+    {
+      "word": "bit",
+      "start": 50.04,
+      "end": 50.18
+    },
+    {
+      "word": "of",
+      "start": 50.18,
+      "end": 50.36
+    },
+    {
+      "word": "a",
+      "start": 50.36,
+      "end": 50.46
+    },
+    {
+      "word": "self",
+      "start": 50.46,
+      "end": 50.8
+    },
+    {
+      "word": "-absorbed",
+      "start": 50.8,
+      "end": 51.3
+    },
+    {
+      "word": "person,",
+      "start": 51.3,
+      "end": 51.66
+    },
+    {
+      "word": "actually,",
+      "start": 51.66,
+      "end": 52.12
+    },
+    {
+      "word": "which",
+      "start": 52.4,
+      "end": 52.84
+    },
+    {
+      "word": "I'd",
+      "start": 52.84,
+      "end": 53.16
+    },
+    {
+      "word": "say",
+      "start": 53.16,
+      "end": 53.3
+    },
+    {
+      "word": "is",
+      "start": 53.3,
+      "end": 53.5
+    },
+    {
+      "word": "a",
+      "start": 53.5,
+      "end": 53.62
+    },
+    {
+      "word": "drawback.",
+      "start": 53.62,
+      "end": 54.1
+    },
+    {
+      "word": "And",
+      "start": 54.1,
+      "end": 54.64
+    },
+    {
+      "word": "I",
+      "start": 54.64,
+      "end": 55.54
+    },
+    {
+      "word": "think",
+      "start": 55.54,
+      "end": 55.78
+    },
+    {
+      "word": "he",
+      "start": 55.78,
+      "end": 55.94
+    },
+    {
+      "word": "comes",
+      "start": 55.94,
+      "end": 56.24
+    },
+    {
+      "word": "across",
+      "start": 56.24,
+      "end": 56.7
+    },
+    {
+      "word": "as",
+      "start": 56.7,
+      "end": 57.06
+    },
+    {
+      "word": "full",
+      "start": 57.06,
+      "end": 57.28
+    },
+    {
+      "word": "of",
+      "start": 57.28,
+      "end": 57.42
+    },
+    {
+      "word": "himself",
+      "start": 57.42,
+      "end": 57.76
+    },
+    {
+      "word": "sometimes.",
+      "start": 57.76,
+      "end": 58.52
+    },
+    {
+      "word": "I'm",
+      "start": 59.12,
+      "end": 59.3
+    },
+    {
+      "word": "in",
+      "start": 59.3,
+      "end": 59.36
+    },
+    {
+      "word": "a",
+      "start": 59.36,
+      "end": 59.42
+    },
+    {
+      "word": "bit",
+      "start": 59.42,
+      "end": 59.64
+    },
+    {
+      "word": "too",
+      "start": 59.64,
+      "end": 60.0
+    },
+    {
+      "word": "sure",
+      "start": 60.0,
+      "end": 60.38
+    },
+    {
+      "word": "of",
+      "start": 60.38,
+      "end": 60.6
+    },
+    {
+      "word": "his",
+      "start": 60.6,
+      "end": 60.7
+    },
+    {
+      "word": "own",
+      "start": 60.7,
+      "end": 60.9
+    },
+    {
+      "word": "opinions.",
+      "start": 60.9,
+      "end": 61.42
+    },
+    {
+      "word": "As",
+      "start": 62.5,
+      "end": 63.04
+    },
+    {
+      "word": "for",
+      "start": 63.04,
+      "end": 63.24
+    },
+    {
+      "word": "why",
+      "start": 63.24,
+      "end": 63.48
+    },
+    {
+      "word": "I",
+      "start": 63.48,
+      "end": 63.64
+    },
+    {
+      "word": "like",
+      "start": 63.64,
+      "end": 63.86
+    },
+    {
+      "word": "him,",
+      "start": 63.86,
+      "end": 64.14
+    },
+    {
+      "word": "well,",
+      "start": 64.76,
+      "end": 64.98
+    },
+    {
+      "word": "he's",
+      "start": 65.74,
+      "end": 65.9
+    },
+    {
+      "word": "actually",
+      "start": 65.9,
+      "end": 66.18
+    },
+    {
+      "word": "quite",
+      "start": 66.18,
+      "end": 66.44
+    },
+    {
+      "word": "different",
+      "start": 66.44,
+      "end": 66.76
+    },
+    {
+      "word": "from",
+      "start": 66.76,
+      "end": 67.0
+    },
+    {
+      "word": "me.",
+      "start": 67.0,
+      "end": 67.2
+    },
+    {
+      "word": "At",
+      "start": 68.02,
+      "end": 68.16
+    },
+    {
+      "word": "uni,",
+      "start": 68.16,
+      "end": 68.46
+    },
+    {
+      "word": "he'd",
+      "start": 69.08,
+      "end": 69.22
+    },
+    {
+      "word": "often",
+      "start": 69.22,
+      "end": 69.36
+    },
+    {
+      "word": "suggest",
+      "start": 69.36,
+      "end": 69.68
+    },
+    {
+      "word": "doing",
+      "start": 69.68,
+      "end": 70.04
+    },
+    {
+      "word": "something",
+      "start": 70.04,
+      "end": 70.5
+    },
+    {
+      "word": "and",
+      "start": 70.5,
+      "end": 70.7
+    },
+    {
+      "word": "I'd",
+      "start": 70.7,
+      "end": 70.94
+    },
+    {
+      "word": "go",
+      "start": 70.94,
+      "end": 71.04
+    },
+    {
+      "word": "along",
+      "start": 71.04,
+      "end": 71.28
+    },
+    {
+      "word": "with",
+      "start": 71.28,
+      "end": 71.46
+    },
+    {
+      "word": "it.",
+      "start": 71.46,
+      "end": 71.68
+    },
+    {
+      "word": "And",
+      "start": 72.08,
+      "end": 72.16
+    },
+    {
+      "word": "because",
+      "start": 72.16,
+      "end": 72.34
+    },
+    {
+      "word": "I'm",
+      "start": 72.34,
+      "end": 72.66
+    },
+    {
+      "word": "laid",
+      "start": 72.66,
+      "end": 72.82
+    },
+    {
+      "word": "back,",
+      "start": 72.82,
+      "end": 73.16
+    },
+    {
+      "word": "I",
+      "start": 73.78,
+      "end": 73.86
+    },
+    {
+      "word": "never",
+      "start": 73.86,
+      "end": 74.08
+    },
+    {
+      "word": "felt",
+      "start": 74.08,
+      "end": 74.38
+    },
+    {
+      "word": "overwhelmed",
+      "start": 74.38,
+      "end": 74.94
+    },
+    {
+      "word": "by",
+      "start": 74.94,
+      "end": 75.38
+    },
+    {
+      "word": "him.",
+      "start": 75.38,
+      "end": 75.66
+    },
+    {
+      "word": "We've",
+      "start": 76.5,
+      "end": 76.74
+    },
+    {
+      "word": "never",
+      "start": 76.74,
+      "end": 76.96
+    },
+    {
+      "word": "fallen",
+      "start": 76.96,
+      "end": 77.3
+    },
+    {
+      "word": "out",
+      "start": 77.3,
+      "end": 77.62
+    },
+    {
+      "word": "or",
+      "start": 77.62,
+      "end": 77.84
+    },
+    {
+      "word": "anything.",
+      "start": 77.84,
+      "end": 78.26
+    },
+    {
+      "word": "How",
+      "start": 79.1,
+      "end": 79.48
+    },
+    {
+      "word": "often",
+      "start": 79.48,
+      "end": 79.78
+    },
+    {
+      "word": "do",
+      "start": 79.78,
+      "end": 79.96
+    },
+    {
+      "word": "you",
+      "start": 79.96,
+      "end": 80.08
+    },
+    {
+      "word": "see",
+      "start": 80.08,
+      "end": 80.26
+    },
+    {
+      "word": "your",
+      "start": 80.26,
+      "end": 80.48
+    },
+    {
+      "word": "friend?",
+      "start": 80.48,
+      "end": 80.88
+    },
+    {
+      "word": "Well,",
+      "start": 81.44,
+      "end": 81.76
+    },
+    {
+      "word": "because",
+      "start": 82.3,
+      "end": 82.68
+    },
+    {
+      "word": "we",
+      "start": 82.68,
+      "end": 82.84
+    },
+    {
+      "word": "live",
+      "start": 82.84,
+      "end": 83.02
+    },
+    {
+      "word": "in",
+      "start": 83.02,
+      "end": 83.2
+    },
+    {
+      "word": "different",
+      "start": 83.2,
+      "end": 83.5
+    },
+    {
+      "word": "countries,",
+      "start": 83.5,
+      "end": 84.1
+    },
+    {
+      "word": "we",
+      "start": 84.76,
+      "end": 85.08
+    },
+    {
+      "word": "don't",
+      "start": 85.08,
+      "end": 85.28
+    },
+    {
+      "word": "see",
+      "start": 85.28,
+      "end": 85.44
+    },
+    {
+      "word": "each",
+      "start": 85.44,
+      "end": 85.68
+    },
+    {
+      "word": "other",
+      "start": 85.68,
+      "end": 85.84
+    },
+    {
+      "word": "that",
+      "start": 85.84,
+      "end": 86.02
+    },
+    {
+      "word": "often.",
+      "start": 86.02,
+      "end": 86.38
+    },
+    {
+      "word": "But",
+      "start": 87.02,
+      "end": 87.2
+    },
+    {
+      "word": "we",
+      "start": 87.2,
+      "end": 87.32
+    },
+    {
+      "word": "try",
+      "start": 87.32,
+      "end": 87.54
+    },
+    {
+      "word": "to",
+      "start": 87.54,
+      "end": 87.72
+    },
+    {
+      "word": "catch",
+      "start": 87.72,
+      "end": 87.98
+    },
+    {
+      "word": "up",
+      "start": 87.98,
+      "end": 88.24
+    },
+    {
+      "word": "on",
+      "start": 88.24,
+      "end": 88.36
+    },
+    {
+      "word": "a",
+      "start": 88.36,
+      "end": 88.46
+    },
+    {
+      "word": "fairly",
+      "start": 88.46,
+      "end": 88.84
+    },
+    {
+      "word": "regular",
+      "start": 88.84,
+      "end": 89.34
+    },
+    {
+      "word": "basis,",
+      "start": 89.34,
+      "end": 89.8
+    },
+    {
+      "word": "say",
+      "start": 90.18,
+      "end": 90.58
+    },
+    {
+      "word": "three",
+      "start": 90.58,
+      "end": 91.42
+    },
+    {
+      "word": "times",
+      "start": 91.42,
+      "end": 91.74
+    },
+    {
+      "word": "a",
+      "start": 91.74,
+      "end": 91.9
+    },
+    {
+      "word": "year.",
+      "start": 91.9,
+      "end": 92.16
+    }
+  ],
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.0,
+      "text": " One of my best friends is a guy called Raul.",
+      "tokens": [
+        50364,
+        1485,
+        295,
+        452,
+        1151,
+        1855,
+        307,
+        257,
+        2146,
+        1219,
+        7591,
+        425,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16546793817316444,
+      "compression_ratio": 1.5714285714285714,
+      "no_speech_prob": 0.018779246136546135,
+      "words": [
+        {
+          "word": " One",
+          "start": 0.0,
+          "end": 0.24,
+          "probability": 0.6695284247398376
+        },
+        {
+          "word": " of",
+          "start": 0.24,
+          "end": 0.4,
+          "probability": 0.9942154288291931
+        },
+        {
+          "word": " my",
+          "start": 0.4,
+          "end": 0.58,
+          "probability": 0.9970489144325256
+        },
+        {
+          "word": " best",
+          "start": 0.58,
+          "end": 0.94,
+          "probability": 0.9985262155532837
+        },
+        {
+          "word": " friends",
+          "start": 0.94,
+          "end": 1.36,
+          "probability": 0.992864727973938
+        },
+        {
+          "word": " is",
+          "start": 1.36,
+          "end": 1.78,
+          "probability": 0.9819091558456421
+        },
+        {
+          "word": " a",
+          "start": 1.78,
+          "end": 1.92,
+          "probability": 0.9948008060455322
+        },
+        {
+          "word": " guy",
+          "start": 1.92,
+          "end": 2.1,
+          "probability": 0.9983585476875305
+        },
+        {
+          "word": " called",
+          "start": 2.1,
+          "end": 2.56,
+          "probability": 0.9961491823196411
+        },
+        {
+          "word": " Raul.",
+          "start": 2.56,
+          "end": 3.0,
+          "probability": 0.5465909987688065
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.7,
+      "end": 7.92,
+      "text": " I met him at uni in Barcelona where we were in the same study group.",
+      "tokens": [
+        50564,
+        286,
+        1131,
+        796,
+        412,
+        36435,
+        294,
+        21247,
+        689,
+        321,
+        645,
+        294,
+        264,
+        912,
+        2979,
+        1594,
+        13,
+        50800
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16546793817316444,
+      "compression_ratio": 1.5714285714285714,
+      "no_speech_prob": 0.018779246136546135,
+      "words": [
+        {
+          "word": " I",
+          "start": 3.7,
+          "end": 4.14,
+          "probability": 0.9334797263145447
+        },
+        {
+          "word": " met",
+          "start": 4.14,
+          "end": 4.3,
+          "probability": 0.997140645980835
+        },
+        {
+          "word": " him",
+          "start": 4.3,
+          "end": 4.48,
+          "probability": 0.9833207726478577
+        },
+        {
+          "word": " at",
+          "start": 4.48,
+          "end": 4.64,
+          "probability": 0.9970634579658508
+        },
+        {
+          "word": " uni",
+          "start": 4.64,
+          "end": 4.88,
+          "probability": 0.43100637197494507
+        },
+        {
+          "word": " in",
+          "start": 4.88,
+          "end": 5.18,
+          "probability": 0.9945370554924011
+        },
+        {
+          "word": " Barcelona",
+          "start": 5.18,
+          "end": 5.74,
+          "probability": 0.9917325973510742
+        },
+        {
+          "word": " where",
+          "start": 5.74,
+          "end": 6.28,
+          "probability": 0.5896825194358826
+        },
+        {
+          "word": " we",
+          "start": 6.28,
+          "end": 6.46,
+          "probability": 0.9966599941253662
+        },
+        {
+          "word": " were",
+          "start": 6.46,
+          "end": 6.62,
+          "probability": 0.9926614761352539
+        },
+        {
+          "word": " in",
+          "start": 6.62,
+          "end": 6.74,
+          "probability": 0.9937801957130432
+        },
+        {
+          "word": " the",
+          "start": 6.74,
+          "end": 6.86,
+          "probability": 0.9968666434288025
+        },
+        {
+          "word": " same",
+          "start": 6.86,
+          "end": 7.08,
+          "probability": 0.9957427382469177
+        },
+        {
+          "word": " study",
+          "start": 7.08,
+          "end": 7.48,
+          "probability": 0.9820812344551086
+        },
+        {
+          "word": " group.",
+          "start": 7.48,
+          "end": 7.92,
+          "probability": 0.9884948134422302
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.56,
+      "end": 9.3,
+      "text": " When was that?",
+      "tokens": [
+        50800,
+        1133,
+        390,
+        300,
+        30,
+        50888
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16546793817316444,
+      "compression_ratio": 1.5714285714285714,
+      "no_speech_prob": 0.018779246136546135,
+      "words": [
+        {
+          "word": " When",
+          "start": 8.56,
+          "end": 8.9,
+          "probability": 0.9201945066452026
+        },
+        {
+          "word": " was",
+          "start": 8.9,
+          "end": 9.08,
+          "probability": 0.9978417158126831
+        },
+        {
+          "word": " that?",
+          "start": 9.08,
+          "end": 9.3,
+          "probability": 0.9983512163162231
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.5,
+      "end": 17.42,
+      "text": " I suppose it was over 10 years ago now, so yes, we've known each other for a good decade.",
+      "tokens": [
+        50888,
+        286,
+        7297,
+        309,
+        390,
+        670,
+        1266,
+        924,
+        2057,
+        586,
+        11,
+        370,
+        2086,
+        11,
+        321,
+        600,
+        2570,
+        1184,
+        661,
+        337,
+        257,
+        665,
+        10378,
+        13,
+        51292
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16546793817316444,
+      "compression_ratio": 1.5714285714285714,
+      "no_speech_prob": 0.018779246136546135,
+      "words": [
+        {
+          "word": " I",
+          "start": 10.5,
+          "end": 10.72,
+          "probability": 0.9746979475021362
+        },
+        {
+          "word": " suppose",
+          "start": 10.72,
+          "end": 11.3,
+          "probability": 0.9816606044769287
+        },
+        {
+          "word": " it",
+          "start": 11.3,
+          "end": 11.7,
+          "probability": 0.9859588742256165
+        },
+        {
+          "word": " was",
+          "start": 11.7,
+          "end": 11.82,
+          "probability": 0.9986395239830017
+        },
+        {
+          "word": " over",
+          "start": 11.82,
+          "end": 12.1,
+          "probability": 0.9962361454963684
+        },
+        {
+          "word": " 10",
+          "start": 12.1,
+          "end": 12.5,
+          "probability": 0.5803669691085815
+        },
+        {
+          "word": " years",
+          "start": 12.5,
+          "end": 12.86,
+          "probability": 0.9973188042640686
+        },
+        {
+          "word": " ago",
+          "start": 12.86,
+          "end": 13.2,
+          "probability": 0.9986883997917175
+        },
+        {
+          "word": " now,",
+          "start": 13.2,
+          "end": 13.46,
+          "probability": 0.9854698181152344
+        },
+        {
+          "word": " so",
+          "start": 13.46,
+          "end": 13.86,
+          "probability": 0.9866395592689514
+        },
+        {
+          "word": " yes,",
+          "start": 13.86,
+          "end": 14.68,
+          "probability": 0.7275651097297668
+        },
+        {
+          "word": " we've",
+          "start": 15.32,
+          "end": 15.66,
+          "probability": 0.9827642738819122
+        },
+        {
+          "word": " known",
+          "start": 15.66,
+          "end": 15.78,
+          "probability": 0.9966883063316345
+        },
+        {
+          "word": " each",
+          "start": 15.78,
+          "end": 16.1,
+          "probability": 0.9999247789382935
+        },
+        {
+          "word": " other",
+          "start": 16.1,
+          "end": 16.3,
+          "probability": 0.9949447512626648
+        },
+        {
+          "word": " for",
+          "start": 16.3,
+          "end": 16.5,
+          "probability": 0.9991244673728943
+        },
+        {
+          "word": " a",
+          "start": 16.5,
+          "end": 16.6,
+          "probability": 0.9973618388175964
+        },
+        {
+          "word": " good",
+          "start": 16.6,
+          "end": 16.8,
+          "probability": 0.9983615279197693
+        },
+        {
+          "word": " decade.",
+          "start": 16.8,
+          "end": 17.42,
+          "probability": 0.9988436698913574
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 18.18,
+      "end": 22.9,
+      "text": " We got to know each other on the tennis courts because the first few days of our course",
+      "tokens": [
+        51292,
+        492,
+        658,
+        281,
+        458,
+        1184,
+        661,
+        322,
+        264,
+        18118,
+        14141,
+        570,
+        264,
+        700,
+        1326,
+        1708,
+        295,
+        527,
+        1164,
+        51512
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16546793817316444,
+      "compression_ratio": 1.5714285714285714,
+      "no_speech_prob": 0.018779246136546135,
+      "words": [
+        {
+          "word": " We",
+          "start": 18.18,
+          "end": 18.74,
+          "probability": 0.9921965599060059
+        },
+        {
+          "word": " got",
+          "start": 18.74,
+          "end": 18.86,
+          "probability": 0.979646623134613
+        },
+        {
+          "word": " to",
+          "start": 18.86,
+          "end": 19.02,
+          "probability": 0.9984850287437439
+        },
+        {
+          "word": " know",
+          "start": 19.02,
+          "end": 19.16,
+          "probability": 0.999377965927124
+        },
+        {
+          "word": " each",
+          "start": 19.16,
+          "end": 19.38,
+          "probability": 0.9993131160736084
+        },
+        {
+          "word": " other",
+          "start": 19.38,
+          "end": 19.58,
+          "probability": 0.9889847040176392
+        },
+        {
+          "word": " on",
+          "start": 19.58,
+          "end": 19.7,
+          "probability": 0.993953287601471
+        },
+        {
+          "word": " the",
+          "start": 19.7,
+          "end": 19.8,
+          "probability": 0.9939823746681213
+        },
+        {
+          "word": " tennis",
+          "start": 19.8,
+          "end": 20.04,
+          "probability": 0.9929327964782715
+        },
+        {
+          "word": " courts",
+          "start": 20.04,
+          "end": 20.42,
+          "probability": 0.9829044938087463
+        },
+        {
+          "word": " because",
+          "start": 20.42,
+          "end": 21.22,
+          "probability": 0.650059163570404
+        },
+        {
+          "word": " the",
+          "start": 21.22,
+          "end": 21.38,
+          "probability": 0.996504545211792
+        },
+        {
+          "word": " first",
+          "start": 21.38,
+          "end": 21.66,
+          "probability": 0.9989056587219238
+        },
+        {
+          "word": " few",
+          "start": 21.66,
+          "end": 21.92,
+          "probability": 0.997669517993927
+        },
+        {
+          "word": " days",
+          "start": 21.92,
+          "end": 22.24,
+          "probability": 0.9986709356307983
+        },
+        {
+          "word": " of",
+          "start": 22.24,
+          "end": 22.44,
+          "probability": 0.9965835809707642
+        },
+        {
+          "word": " our",
+          "start": 22.44,
+          "end": 22.54,
+          "probability": 0.9972122311592102
+        },
+        {
+          "word": " course",
+          "start": 22.54,
+          "end": 22.9,
+          "probability": 0.9932643175125122
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 22.9,
+      "end": 27.8,
+      "text": " were so boring that we both decided we'd be better off outside playing tennis.",
+      "tokens": [
+        51512,
+        645,
+        370,
+        9989,
+        300,
+        321,
+        1293,
+        3047,
+        321,
+        1116,
+        312,
+        1101,
+        766,
+        2380,
+        2433,
+        18118,
+        13,
+        51820
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16546793817316444,
+      "compression_ratio": 1.5714285714285714,
+      "no_speech_prob": 0.018779246136546135,
+      "words": [
+        {
+          "word": " were",
+          "start": 22.9,
+          "end": 23.1,
+          "probability": 0.24631911516189575
+        },
+        {
+          "word": " so",
+          "start": 23.1,
+          "end": 23.36,
+          "probability": 0.9977735877037048
+        },
+        {
+          "word": " boring",
+          "start": 23.36,
+          "end": 23.84,
+          "probability": 0.9960207343101501
+        },
+        {
+          "word": " that",
+          "start": 23.84,
+          "end": 24.5,
+          "probability": 0.9377483129501343
+        },
+        {
+          "word": " we",
+          "start": 24.5,
+          "end": 24.62,
+          "probability": 0.9885314702987671
+        },
+        {
+          "word": " both",
+          "start": 24.62,
+          "end": 24.86,
+          "probability": 0.9895882606506348
+        },
+        {
+          "word": " decided",
+          "start": 24.86,
+          "end": 25.48,
+          "probability": 0.9975007176399231
+        },
+        {
+          "word": " we'd",
+          "start": 25.48,
+          "end": 25.76,
+          "probability": 0.8674505949020386
+        },
+        {
+          "word": " be",
+          "start": 25.76,
+          "end": 25.86,
+          "probability": 0.940685510635376
+        },
+        {
+          "word": " better",
+          "start": 25.86,
+          "end": 26.24,
+          "probability": 0.9981018900871277
+        },
+        {
+          "word": " off",
+          "start": 26.24,
+          "end": 26.54,
+          "probability": 0.9983904361724854
+        },
+        {
+          "word": " outside",
+          "start": 26.54,
+          "end": 27.0,
+          "probability": 0.9921973347663879
+        },
+        {
+          "word": " playing",
+          "start": 27.0,
+          "end": 27.42,
+          "probability": 0.9828009605407715
+        },
+        {
+          "word": " tennis.",
+          "start": 27.42,
+          "end": 27.8,
+          "probability": 0.999200165271759
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2780,
+      "start": 28.66,
+      "end": 30.5,
+      "text": " What kind of person is he?",
+      "tokens": [
+        50380,
+        708,
+        733,
+        295,
+        954,
+        307,
+        415,
+        30,
+        50516
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2647972106933594,
+      "compression_ratio": 1.4774774774774775,
+      "no_speech_prob": 0.13461747765541077,
+      "words": [
+        {
+          "word": " What",
+          "start": 28.66,
+          "end": 29.3,
+          "probability": 0.1697392761707306
+        },
+        {
+          "word": " kind",
+          "start": 29.3,
+          "end": 29.52,
+          "probability": 0.984623372554779
+        },
+        {
+          "word": " of",
+          "start": 29.52,
+          "end": 29.68,
+          "probability": 0.9936525821685791
+        },
+        {
+          "word": " person",
+          "start": 29.68,
+          "end": 30.08,
+          "probability": 0.9446890354156494
+        },
+        {
+          "word": " is",
+          "start": 30.08,
+          "end": 30.3,
+          "probability": 0.9882330298423767
+        },
+        {
+          "word": " he?",
+          "start": 30.3,
+          "end": 30.5,
+          "probability": 0.9913727045059204
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2780,
+      "start": 31.16,
+      "end": 38.54,
+      "text": " He's very active, a sporty type, involved in hiking and mountain biking, a bit of an adrenaline junkie.",
+      "tokens": [
+        50516,
+        634,
+        311,
+        588,
+        4967,
+        11,
+        257,
+        45804,
+        2010,
+        11,
+        3288,
+        294,
+        23784,
+        293,
+        6937,
+        40276,
+        11,
+        257,
+        857,
+        295,
+        364,
+        35649,
+        19109,
+        414,
+        13,
+        50920
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2647972106933594,
+      "compression_ratio": 1.4774774774774775,
+      "no_speech_prob": 0.13461747765541077,
+      "words": [
+        {
+          "word": " He's",
+          "start": 31.16,
+          "end": 31.62,
+          "probability": 0.6770861148834229
+        },
+        {
+          "word": " very",
+          "start": 31.62,
+          "end": 31.76,
+          "probability": 0.9899678230285645
+        },
+        {
+          "word": " active,",
+          "start": 31.76,
+          "end": 32.32,
+          "probability": 0.9931164979934692
+        },
+        {
+          "word": " a",
+          "start": 32.66,
+          "end": 32.76,
+          "probability": 0.9815364480018616
+        },
+        {
+          "word": " sporty",
+          "start": 32.76,
+          "end": 33.12,
+          "probability": 0.8530254364013672
+        },
+        {
+          "word": " type,",
+          "start": 33.12,
+          "end": 33.58,
+          "probability": 0.9306569695472717
+        },
+        {
+          "word": " involved",
+          "start": 34.0,
+          "end": 34.3,
+          "probability": 0.9805986881256104
+        },
+        {
+          "word": " in",
+          "start": 34.3,
+          "end": 34.54,
+          "probability": 0.999041736125946
+        },
+        {
+          "word": " hiking",
+          "start": 34.54,
+          "end": 34.94,
+          "probability": 0.960181474685669
+        },
+        {
+          "word": " and",
+          "start": 34.94,
+          "end": 35.26,
+          "probability": 0.9359849691390991
+        },
+        {
+          "word": " mountain",
+          "start": 35.26,
+          "end": 35.58,
+          "probability": 0.9960487484931946
+        },
+        {
+          "word": " biking,",
+          "start": 35.58,
+          "end": 36.04,
+          "probability": 0.9932042360305786
+        },
+        {
+          "word": " a",
+          "start": 36.72,
+          "end": 36.78,
+          "probability": 0.9899736642837524
+        },
+        {
+          "word": " bit",
+          "start": 36.78,
+          "end": 36.98,
+          "probability": 0.9969977140426636
+        },
+        {
+          "word": " of",
+          "start": 36.98,
+          "end": 37.2,
+          "probability": 0.9947752952575684
+        },
+        {
+          "word": " an",
+          "start": 37.2,
+          "end": 37.3,
+          "probability": 0.9587794542312622
+        },
+        {
+          "word": " adrenaline",
+          "start": 37.3,
+          "end": 37.74,
+          "probability": 0.9168415665626526
+        },
+        {
+          "word": " junkie.",
+          "start": 37.74,
+          "end": 38.54,
+          "probability": 0.8142579197883606
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2780,
+      "start": 39.28,
+      "end": 41.62,
+      "text": " He's also a very determined person.",
+      "tokens": [
+        50920,
+        634,
+        311,
+        611,
+        257,
+        588,
+        9540,
+        954,
+        13,
+        51072
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2647972106933594,
+      "compression_ratio": 1.4774774774774775,
+      "no_speech_prob": 0.13461747765541077,
+      "words": [
+        {
+          "word": " He's",
+          "start": 39.28,
+          "end": 39.64,
+          "probability": 0.9821123480796814
+        },
+        {
+          "word": " also",
+          "start": 39.64,
+          "end": 39.96,
+          "probability": 0.996697187423706
+        },
+        {
+          "word": " a",
+          "start": 39.96,
+          "end": 40.12,
+          "probability": 0.994699239730835
+        },
+        {
+          "word": " very",
+          "start": 40.12,
+          "end": 40.36,
+          "probability": 0.9988343119621277
+        },
+        {
+          "word": " determined",
+          "start": 40.36,
+          "end": 40.94,
+          "probability": 0.9965128302574158
+        },
+        {
+          "word": " person.",
+          "start": 40.94,
+          "end": 41.62,
+          "probability": 0.9957410097122192
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2780,
+      "start": 42.42,
+      "end": 46.18,
+      "text": " When he gets into something, he gives 100%.",
+      "tokens": [
+        51072,
+        1133,
+        415,
+        2170,
+        666,
+        746,
+        11,
+        415,
+        2709,
+        2319,
+        6856,
+        51284
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2647972106933594,
+      "compression_ratio": 1.4774774774774775,
+      "no_speech_prob": 0.13461747765541077,
+      "words": [
+        {
+          "word": " When",
+          "start": 42.42,
+          "end": 42.68,
+          "probability": 0.9916479587554932
+        },
+        {
+          "word": " he",
+          "start": 42.68,
+          "end": 42.8,
+          "probability": 0.9977425336837769
+        },
+        {
+          "word": " gets",
+          "start": 42.8,
+          "end": 42.94,
+          "probability": 0.9970393776893616
+        },
+        {
+          "word": " into",
+          "start": 42.94,
+          "end": 43.26,
+          "probability": 0.9894735217094421
+        },
+        {
+          "word": " something,",
+          "start": 43.26,
+          "end": 43.7,
+          "probability": 0.9984032511711121
+        },
+        {
+          "word": " he",
+          "start": 44.14,
+          "end": 44.16,
+          "probability": 0.9970268607139587
+        },
+        {
+          "word": " gives",
+          "start": 44.16,
+          "end": 44.4,
+          "probability": 0.9924589991569519
+        },
+        {
+          "word": " 100%.",
+          "start": 44.4,
+          "end": 46.18,
+          "probability": 0.43352730572223663
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2780,
+      "start": 46.18,
+      "end": 48.48,
+      "text": " And he changes passions often.",
+      "tokens": [
+        51284,
+        400,
+        415,
+        2962,
+        30640,
+        2049,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2647972106933594,
+      "compression_ratio": 1.4774774774774775,
+      "no_speech_prob": 0.13461747765541077,
+      "words": [
+        {
+          "word": " And",
+          "start": 46.18,
+          "end": 46.86,
+          "probability": 0.9718577861785889
+        },
+        {
+          "word": " he",
+          "start": 46.86,
+          "end": 47.08,
+          "probability": 0.9769590497016907
+        },
+        {
+          "word": " changes",
+          "start": 47.08,
+          "end": 47.48,
+          "probability": 0.995757520198822
+        },
+        {
+          "word": " passions",
+          "start": 47.48,
+          "end": 47.96,
+          "probability": 0.9772144556045532
+        },
+        {
+          "word": " often.",
+          "start": 47.96,
+          "end": 48.48,
+          "probability": 0.942154586315155
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2780,
+      "start": 49.3,
+      "end": 54.1,
+      "text": " That makes him a bit of a self-absorbed person, actually, which I'd say is a drawback.",
+      "tokens": [
+        51414,
+        663,
+        1669,
+        796,
+        257,
+        857,
+        295,
+        257,
+        2698,
+        12,
+        17243,
+        284,
+        2883,
+        954,
+        11,
+        767,
+        11,
+        597,
+        286,
+        1116,
+        584,
+        307,
+        257,
+        2642,
+        3207,
+        13,
+        51704
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2647972106933594,
+      "compression_ratio": 1.4774774774774775,
+      "no_speech_prob": 0.13461747765541077,
+      "words": [
+        {
+          "word": " That",
+          "start": 49.3,
+          "end": 49.52,
+          "probability": 0.99152010679245
+        },
+        {
+          "word": " makes",
+          "start": 49.52,
+          "end": 49.72,
+          "probability": 0.9975316524505615
+        },
+        {
+          "word": " him",
+          "start": 49.72,
+          "end": 49.94,
+          "probability": 0.9988131523132324
+        },
+        {
+          "word": " a",
+          "start": 49.94,
+          "end": 50.04,
+          "probability": 0.9977464079856873
+        },
+        {
+          "word": " bit",
+          "start": 50.04,
+          "end": 50.18,
+          "probability": 0.9987934827804565
+        },
+        {
+          "word": " of",
+          "start": 50.18,
+          "end": 50.36,
+          "probability": 0.9974918365478516
+        },
+        {
+          "word": " a",
+          "start": 50.36,
+          "end": 50.46,
+          "probability": 0.9948666095733643
+        },
+        {
+          "word": " self",
+          "start": 50.46,
+          "end": 50.8,
+          "probability": 0.9971289038658142
+        },
+        {
+          "word": "-absorbed",
+          "start": 50.8,
+          "end": 51.3,
+          "probability": 0.9690545499324799
+        },
+        {
+          "word": " person,",
+          "start": 51.3,
+          "end": 51.66,
+          "probability": 0.9959627985954285
+        },
+        {
+          "word": " actually,",
+          "start": 51.66,
+          "end": 52.12,
+          "probability": 0.969919741153717
+        },
+        {
+          "word": " which",
+          "start": 52.4,
+          "end": 52.84,
+          "probability": 0.9946881532669067
+        },
+        {
+          "word": " I'd",
+          "start": 52.84,
+          "end": 53.16,
+          "probability": 0.9278243780136108
+        },
+        {
+          "word": " say",
+          "start": 53.16,
+          "end": 53.3,
+          "probability": 0.9980620741844177
+        },
+        {
+          "word": " is",
+          "start": 53.3,
+          "end": 53.5,
+          "probability": 0.9845290780067444
+        },
+        {
+          "word": " a",
+          "start": 53.5,
+          "end": 53.62,
+          "probability": 0.7640100717544556
+        },
+        {
+          "word": " drawback.",
+          "start": 53.62,
+          "end": 54.1,
+          "probability": 0.9881996810436249
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5410,
+      "start": 54.1,
+      "end": 58.52,
+      "text": " And I think he comes across as full of himself sometimes.",
+      "tokens": [
+        50408,
+        400,
+        286,
+        519,
+        415,
+        1487,
+        2108,
+        382,
+        1577,
+        295,
+        3647,
+        2171,
+        13,
+        50608
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09086624475625846,
+      "compression_ratio": 1.555084745762712,
+      "no_speech_prob": 0.05727909505367279,
+      "words": [
+        {
+          "word": " And",
+          "start": 54.1,
+          "end": 54.64,
+          "probability": 0.15636438131332397
+        },
+        {
+          "word": " I",
+          "start": 54.64,
+          "end": 55.54,
+          "probability": 0.8896816372871399
+        },
+        {
+          "word": " think",
+          "start": 55.54,
+          "end": 55.78,
+          "probability": 0.9960250854492188
+        },
+        {
+          "word": " he",
+          "start": 55.78,
+          "end": 55.94,
+          "probability": 0.988578200340271
+        },
+        {
+          "word": " comes",
+          "start": 55.94,
+          "end": 56.24,
+          "probability": 0.9924307465553284
+        },
+        {
+          "word": " across",
+          "start": 56.24,
+          "end": 56.7,
+          "probability": 0.9963986873626709
+        },
+        {
+          "word": " as",
+          "start": 56.7,
+          "end": 57.06,
+          "probability": 0.9184678196907043
+        },
+        {
+          "word": " full",
+          "start": 57.06,
+          "end": 57.28,
+          "probability": 0.9726269841194153
+        },
+        {
+          "word": " of",
+          "start": 57.28,
+          "end": 57.42,
+          "probability": 0.9891871809959412
+        },
+        {
+          "word": " himself",
+          "start": 57.42,
+          "end": 57.76,
+          "probability": 0.9955140948295593
+        },
+        {
+          "word": " sometimes.",
+          "start": 57.76,
+          "end": 58.52,
+          "probability": 0.886753261089325
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5410,
+      "start": 59.12,
+      "end": 61.42,
+      "text": " I'm in a bit too sure of his own opinions.",
+      "tokens": [
+        50608,
+        286,
+        478,
+        294,
+        257,
+        857,
+        886,
+        988,
+        295,
+        702,
+        1065,
+        11819,
+        13,
+        50736
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09086624475625846,
+      "compression_ratio": 1.555084745762712,
+      "no_speech_prob": 0.05727909505367279,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 59.12,
+          "end": 59.3,
+          "probability": 0.9371225833892822
+        },
+        {
+          "word": " in",
+          "start": 59.3,
+          "end": 59.36,
+          "probability": 0.9953315854072571
+        },
+        {
+          "word": " a",
+          "start": 59.36,
+          "end": 59.42,
+          "probability": 0.9954327344894409
+        },
+        {
+          "word": " bit",
+          "start": 59.42,
+          "end": 59.64,
+          "probability": 0.9922332763671875
+        },
+        {
+          "word": " too",
+          "start": 59.64,
+          "end": 60.0,
+          "probability": 0.9765663146972656
+        },
+        {
+          "word": " sure",
+          "start": 60.0,
+          "end": 60.38,
+          "probability": 0.9745648503303528
+        },
+        {
+          "word": " of",
+          "start": 60.38,
+          "end": 60.6,
+          "probability": 0.9920003414154053
+        },
+        {
+          "word": " his",
+          "start": 60.6,
+          "end": 60.7,
+          "probability": 0.9969207048416138
+        },
+        {
+          "word": " own",
+          "start": 60.7,
+          "end": 60.9,
+          "probability": 0.989426851272583
+        },
+        {
+          "word": " opinions.",
+          "start": 60.9,
+          "end": 61.42,
+          "probability": 0.977110743522644
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5410,
+      "start": 62.5,
+      "end": 67.2,
+      "text": " As for why I like him, well, he's actually quite different from me.",
+      "tokens": [
+        50796,
+        1018,
+        337,
+        983,
+        286,
+        411,
+        796,
+        11,
+        731,
+        11,
+        415,
+        311,
+        767,
+        1596,
+        819,
+        490,
+        385,
+        13,
+        51016
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09086624475625846,
+      "compression_ratio": 1.555084745762712,
+      "no_speech_prob": 0.05727909505367279,
+      "words": [
+        {
+          "word": " As",
+          "start": 62.5,
+          "end": 63.04,
+          "probability": 0.8969146013259888
+        },
+        {
+          "word": " for",
+          "start": 63.04,
+          "end": 63.24,
+          "probability": 0.9803829193115234
+        },
+        {
+          "word": " why",
+          "start": 63.24,
+          "end": 63.48,
+          "probability": 0.991689145565033
+        },
+        {
+          "word": " I",
+          "start": 63.48,
+          "end": 63.64,
+          "probability": 0.9912176132202148
+        },
+        {
+          "word": " like",
+          "start": 63.64,
+          "end": 63.86,
+          "probability": 0.9933711290359497
+        },
+        {
+          "word": " him,",
+          "start": 63.86,
+          "end": 64.14,
+          "probability": 0.99835604429245
+        },
+        {
+          "word": " well,",
+          "start": 64.76,
+          "end": 64.98,
+          "probability": 0.9607499837875366
+        },
+        {
+          "word": " he's",
+          "start": 65.74,
+          "end": 65.9,
+          "probability": 0.9634474217891693
+        },
+        {
+          "word": " actually",
+          "start": 65.9,
+          "end": 66.18,
+          "probability": 0.9897823333740234
+        },
+        {
+          "word": " quite",
+          "start": 66.18,
+          "end": 66.44,
+          "probability": 0.9988849759101868
+        },
+        {
+          "word": " different",
+          "start": 66.44,
+          "end": 66.76,
+          "probability": 0.9993810653686523
+        },
+        {
+          "word": " from",
+          "start": 66.76,
+          "end": 67.0,
+          "probability": 0.9912808537483215
+        },
+        {
+          "word": " me.",
+          "start": 67.0,
+          "end": 67.2,
+          "probability": 0.9968966245651245
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5410,
+      "start": 68.02,
+      "end": 71.68,
+      "text": " At uni, he'd often suggest doing something and I'd go along with it.",
+      "tokens": [
+        51052,
+        1711,
+        36435,
+        11,
+        415,
+        1116,
+        2049,
+        3402,
+        884,
+        746,
+        293,
+        286,
+        1116,
+        352,
+        2051,
+        365,
+        309,
+        13,
+        51256
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09086624475625846,
+      "compression_ratio": 1.555084745762712,
+      "no_speech_prob": 0.05727909505367279,
+      "words": [
+        {
+          "word": " At",
+          "start": 68.02,
+          "end": 68.16,
+          "probability": 0.9886588454246521
+        },
+        {
+          "word": " uni,",
+          "start": 68.16,
+          "end": 68.46,
+          "probability": 0.8574873208999634
+        },
+        {
+          "word": " he'd",
+          "start": 69.08,
+          "end": 69.22,
+          "probability": 0.99664506316185
+        },
+        {
+          "word": " often",
+          "start": 69.22,
+          "end": 69.36,
+          "probability": 0.9995532631874084
+        },
+        {
+          "word": " suggest",
+          "start": 69.36,
+          "end": 69.68,
+          "probability": 0.9831651449203491
+        },
+        {
+          "word": " doing",
+          "start": 69.68,
+          "end": 70.04,
+          "probability": 0.9973439574241638
+        },
+        {
+          "word": " something",
+          "start": 70.04,
+          "end": 70.5,
+          "probability": 0.9921326041221619
+        },
+        {
+          "word": " and",
+          "start": 70.5,
+          "end": 70.7,
+          "probability": 0.627447783946991
+        },
+        {
+          "word": " I'd",
+          "start": 70.7,
+          "end": 70.94,
+          "probability": 0.9923186600208282
+        },
+        {
+          "word": " go",
+          "start": 70.94,
+          "end": 71.04,
+          "probability": 0.9971199035644531
+        },
+        {
+          "word": " along",
+          "start": 71.04,
+          "end": 71.28,
+          "probability": 0.9978396892547607
+        },
+        {
+          "word": " with",
+          "start": 71.28,
+          "end": 71.46,
+          "probability": 0.998594343662262
+        },
+        {
+          "word": " it.",
+          "start": 71.46,
+          "end": 71.68,
+          "probability": 0.9964653253555298
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5410,
+      "start": 72.08,
+      "end": 75.66,
+      "text": " And because I'm laid back, I never felt overwhelmed by him.",
+      "tokens": [
+        51256,
+        400,
+        570,
+        286,
+        478,
+        9897,
+        646,
+        11,
+        286,
+        1128,
+        2762,
+        19042,
+        538,
+        796,
+        13,
+        51440
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09086624475625846,
+      "compression_ratio": 1.555084745762712,
+      "no_speech_prob": 0.05727909505367279,
+      "words": [
+        {
+          "word": " And",
+          "start": 72.08,
+          "end": 72.16,
+          "probability": 0.9376638531684875
+        },
+        {
+          "word": " because",
+          "start": 72.16,
+          "end": 72.34,
+          "probability": 0.9852244853973389
+        },
+        {
+          "word": " I'm",
+          "start": 72.34,
+          "end": 72.66,
+          "probability": 0.9772758781909943
+        },
+        {
+          "word": " laid",
+          "start": 72.66,
+          "end": 72.82,
+          "probability": 0.9615309834480286
+        },
+        {
+          "word": " back,",
+          "start": 72.82,
+          "end": 73.16,
+          "probability": 0.994038462638855
+        },
+        {
+          "word": " I",
+          "start": 73.78,
+          "end": 73.86,
+          "probability": 0.9986704587936401
+        },
+        {
+          "word": " never",
+          "start": 73.86,
+          "end": 74.08,
+          "probability": 0.9836134910583496
+        },
+        {
+          "word": " felt",
+          "start": 74.08,
+          "end": 74.38,
+          "probability": 0.9956134557723999
+        },
+        {
+          "word": " overwhelmed",
+          "start": 74.38,
+          "end": 74.94,
+          "probability": 0.9779434204101562
+        },
+        {
+          "word": " by",
+          "start": 74.94,
+          "end": 75.38,
+          "probability": 0.9985067248344421
+        },
+        {
+          "word": " him.",
+          "start": 75.38,
+          "end": 75.66,
+          "probability": 0.9989873766899109
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5410,
+      "start": 76.5,
+      "end": 78.26,
+      "text": " We've never fallen out or anything.",
+      "tokens": [
+        51480,
+        492,
+        600,
+        1128,
+        11547,
+        484,
+        420,
+        1340,
+        13,
+        51572
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09086624475625846,
+      "compression_ratio": 1.555084745762712,
+      "no_speech_prob": 0.05727909505367279,
+      "words": [
+        {
+          "word": " We've",
+          "start": 76.5,
+          "end": 76.74,
+          "probability": 0.9885932505130768
+        },
+        {
+          "word": " never",
+          "start": 76.74,
+          "end": 76.96,
+          "probability": 0.9993957281112671
+        },
+        {
+          "word": " fallen",
+          "start": 76.96,
+          "end": 77.3,
+          "probability": 0.9962157607078552
+        },
+        {
+          "word": " out",
+          "start": 77.3,
+          "end": 77.62,
+          "probability": 0.996756374835968
+        },
+        {
+          "word": " or",
+          "start": 77.62,
+          "end": 77.84,
+          "probability": 0.9586668610572815
+        },
+        {
+          "word": " anything.",
+          "start": 77.84,
+          "end": 78.26,
+          "probability": 0.996944010257721
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5410,
+      "start": 79.1,
+      "end": 80.88,
+      "text": " How often do you see your friend?",
+      "tokens": [
+        51616,
+        1012,
+        2049,
+        360,
+        291,
+        536,
+        428,
+        1277,
+        30,
+        51700
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09086624475625846,
+      "compression_ratio": 1.555084745762712,
+      "no_speech_prob": 0.05727909505367279,
+      "words": [
+        {
+          "word": " How",
+          "start": 79.1,
+          "end": 79.48,
+          "probability": 0.7449116706848145
+        },
+        {
+          "word": " often",
+          "start": 79.48,
+          "end": 79.78,
+          "probability": 0.9986536502838135
+        },
+        {
+          "word": " do",
+          "start": 79.78,
+          "end": 79.96,
+          "probability": 0.9980740547180176
+        },
+        {
+          "word": " you",
+          "start": 79.96,
+          "end": 80.08,
+          "probability": 0.9984475374221802
+        },
+        {
+          "word": " see",
+          "start": 80.08,
+          "end": 80.26,
+          "probability": 0.9990587830543518
+        },
+        {
+          "word": " your",
+          "start": 80.26,
+          "end": 80.48,
+          "probability": 0.9850764870643616
+        },
+        {
+          "word": " friend?",
+          "start": 80.48,
+          "end": 80.88,
+          "probability": 0.9932788014411926
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 8088,
+      "start": 81.44,
+      "end": 86.38,
+      "text": " Well, because we live in different countries, we don't see each other that often.",
+      "tokens": [
+        50392,
+        1042,
+        11,
+        570,
+        321,
+        1621,
+        294,
+        819,
+        3517,
+        11,
+        321,
+        500,
+        380,
+        536,
+        1184,
+        661,
+        300,
+        2049,
+        13,
+        50636
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22182220365942978,
+      "compression_ratio": 1.2916666666666667,
+      "no_speech_prob": 0.026419125497341156,
+      "words": [
+        {
+          "word": " Well,",
+          "start": 81.44,
+          "end": 81.76,
+          "probability": 0.7396173477172852
+        },
+        {
+          "word": " because",
+          "start": 82.3,
+          "end": 82.68,
+          "probability": 0.9767964482307434
+        },
+        {
+          "word": " we",
+          "start": 82.68,
+          "end": 82.84,
+          "probability": 0.9986016154289246
+        },
+        {
+          "word": " live",
+          "start": 82.84,
+          "end": 83.02,
+          "probability": 0.9977032542228699
+        },
+        {
+          "word": " in",
+          "start": 83.02,
+          "end": 83.2,
+          "probability": 0.999323844909668
+        },
+        {
+          "word": " different",
+          "start": 83.2,
+          "end": 83.5,
+          "probability": 0.9985684156417847
+        },
+        {
+          "word": " countries,",
+          "start": 83.5,
+          "end": 84.1,
+          "probability": 0.9971717000007629
+        },
+        {
+          "word": " we",
+          "start": 84.76,
+          "end": 85.08,
+          "probability": 0.9906264543533325
+        },
+        {
+          "word": " don't",
+          "start": 85.08,
+          "end": 85.28,
+          "probability": 0.9952407777309418
+        },
+        {
+          "word": " see",
+          "start": 85.28,
+          "end": 85.44,
+          "probability": 0.9915223121643066
+        },
+        {
+          "word": " each",
+          "start": 85.44,
+          "end": 85.68,
+          "probability": 0.9986501336097717
+        },
+        {
+          "word": " other",
+          "start": 85.68,
+          "end": 85.84,
+          "probability": 0.9848286509513855
+        },
+        {
+          "word": " that",
+          "start": 85.84,
+          "end": 86.02,
+          "probability": 0.9843452572822571
+        },
+        {
+          "word": " often.",
+          "start": 86.02,
+          "end": 86.38,
+          "probability": 0.9988728165626526
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 8088,
+      "start": 87.02,
+      "end": 92.16,
+      "text": " But we try to catch up on a fairly regular basis, say three times a year.",
+      "tokens": [
+        50668,
+        583,
+        321,
+        853,
+        281,
+        3745,
+        493,
+        322,
+        257,
+        6457,
+        3890,
+        5143,
+        11,
+        584,
+        1045,
+        1413,
+        257,
+        1064,
+        13,
+        50948
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22182220365942978,
+      "compression_ratio": 1.2916666666666667,
+      "no_speech_prob": 0.026419125497341156,
+      "words": [
+        {
+          "word": " But",
+          "start": 87.02,
+          "end": 87.2,
+          "probability": 0.9801132678985596
+        },
+        {
+          "word": " we",
+          "start": 87.2,
+          "end": 87.32,
+          "probability": 0.9564375877380371
+        },
+        {
+          "word": " try",
+          "start": 87.32,
+          "end": 87.54,
+          "probability": 0.96077960729599
+        },
+        {
+          "word": " to",
+          "start": 87.54,
+          "end": 87.72,
+          "probability": 0.9955152869224548
+        },
+        {
+          "word": " catch",
+          "start": 87.72,
+          "end": 87.98,
+          "probability": 0.9918308854103088
+        },
+        {
+          "word": " up",
+          "start": 87.98,
+          "end": 88.24,
+          "probability": 0.9895913004875183
+        },
+        {
+          "word": " on",
+          "start": 88.24,
+          "end": 88.36,
+          "probability": 0.9946461319923401
+        },
+        {
+          "word": " a",
+          "start": 88.36,
+          "end": 88.46,
+          "probability": 0.9952280521392822
+        },
+        {
+          "word": " fairly",
+          "start": 88.46,
+          "end": 88.84,
+          "probability": 0.991288423538208
+        },
+        {
+          "word": " regular",
+          "start": 88.84,
+          "end": 89.34,
+          "probability": 0.9952743053436279
+        },
+        {
+          "word": " basis,",
+          "start": 89.34,
+          "end": 89.8,
+          "probability": 0.9990764856338501
+        },
+        {
+          "word": " say",
+          "start": 90.18,
+          "end": 90.58,
+          "probability": 0.5193287134170532
+        },
+        {
+          "word": " three",
+          "start": 90.58,
+          "end": 91.42,
+          "probability": 0.3437967002391815
+        },
+        {
+          "word": " times",
+          "start": 91.42,
+          "end": 91.74,
+          "probability": 0.9979554414749146
+        },
+        {
+          "word": " a",
+          "start": 91.74,
+          "end": 91.9,
+          "probability": 0.9995500445365906
+        },
+        {
+          "word": " year.",
+          "start": 91.9,
+          "end": 92.16,
+          "probability": 0.9994103908538818
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}
