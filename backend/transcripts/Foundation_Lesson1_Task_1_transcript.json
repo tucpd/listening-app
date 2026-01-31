@@ -1,0 +1,696 @@
+{
+  "text": "Chapter 1. Numbers, dates, addresses, times, and numeral relationships. Numbers. Listening activity 1. Listen to the tape. You will hear seven numbers. Circle the numbers you hear. Number 1. 40. Number 2. 190. Number 3. 13. Number 4. 1,010. Number 5. 70. Number 6. 151. Number 7. 1559.",
+  "words": [
+    {
+      "word": "Chapter",
+      "start": 0.0,
+      "end": 1.24
+    },
+    {
+      "word": "1.",
+      "start": 1.24,
+      "end": 1.76
+    },
+    {
+      "word": "Numbers,",
+      "start": 2.3,
+      "end": 2.74
+    },
+    {
+      "word": "dates,",
+      "start": 3.06,
+      "end": 3.22
+    },
+    {
+      "word": "addresses,",
+      "start": 3.72,
+      "end": 3.92
+    },
+    {
+      "word": "times,",
+      "start": 4.4,
+      "end": 4.72
+    },
+    {
+      "word": "and",
+      "start": 5.06,
+      "end": 5.12
+    },
+    {
+      "word": "numeral",
+      "start": 5.12,
+      "end": 5.66
+    },
+    {
+      "word": "relationships.",
+      "start": 5.66,
+      "end": 6.56
+    },
+    {
+      "word": "Numbers.",
+      "start": 7.78,
+      "end": 8.76
+    },
+    {
+      "word": "Listening",
+      "start": 9.5,
+      "end": 10.22
+    },
+    {
+      "word": "activity",
+      "start": 10.22,
+      "end": 10.74
+    },
+    {
+      "word": "1.",
+      "start": 10.74,
+      "end": 11.32
+    },
+    {
+      "word": "Listen",
+      "start": 12.14,
+      "end": 12.9
+    },
+    {
+      "word": "to",
+      "start": 12.9,
+      "end": 13.1
+    },
+    {
+      "word": "the",
+      "start": 13.1,
+      "end": 13.24
+    },
+    {
+      "word": "tape.",
+      "start": 13.24,
+      "end": 13.58
+    },
+    {
+      "word": "You",
+      "start": 14.24,
+      "end": 14.36
+    },
+    {
+      "word": "will",
+      "start": 14.36,
+      "end": 14.52
+    },
+    {
+      "word": "hear",
+      "start": 14.52,
+      "end": 14.84
+    },
+    {
+      "word": "seven",
+      "start": 14.84,
+      "end": 15.38
+    },
+    {
+      "word": "numbers.",
+      "start": 15.38,
+      "end": 15.88
+    },
+    {
+      "word": "Circle",
+      "start": 16.62,
+      "end": 17.08
+    },
+    {
+      "word": "the",
+      "start": 17.08,
+      "end": 17.34
+    },
+    {
+      "word": "numbers",
+      "start": 17.34,
+      "end": 17.7
+    },
+    {
+      "word": "you",
+      "start": 17.7,
+      "end": 18.1
+    },
+    {
+      "word": "hear.",
+      "start": 18.1,
+      "end": 18.5
+    },
+    {
+      "word": "Number",
+      "start": 18.5,
+      "end": 20.54
+    },
+    {
+      "word": "1.",
+      "start": 20.54,
+      "end": 20.84
+    },
+    {
+      "word": "40.",
+      "start": 21.76,
+      "end": 22.62
+    },
+    {
+      "word": "Number",
+      "start": 23.78,
+      "end": 24.8
+    },
+    {
+      "word": "2.",
+      "start": 24.8,
+      "end": 25.32
+    },
+    {
+      "word": "190.",
+      "start": 26.66,
+      "end": 28.06
+    },
+    {
+      "word": "Number",
+      "start": 29.8,
+      "end": 30.04
+    },
+    {
+      "word": "3.",
+      "start": 30.04,
+      "end": 30.56
+    },
+    {
+      "word": "13.",
+      "start": 31.42,
+      "end": 32.32
+    },
+    {
+      "word": "Number",
+      "start": 33.64,
+      "end": 34.0
+    },
+    {
+      "word": "4.",
+      "start": 34.0,
+      "end": 34.6
+    },
+    {
+      "word": "1",
+      "start": 35.72,
+      "end": 36.14
+    },
+    {
+      "word": ",010.",
+      "start": 36.14,
+      "end": 37.34
+    },
+    {
+      "word": "Number",
+      "start": 38.64,
+      "end": 38.98
+    },
+    {
+      "word": "5.",
+      "start": 38.98,
+      "end": 39.58
+    },
+    {
+      "word": "70.",
+      "start": 40.38,
+      "end": 41.3
+    },
+    {
+      "word": "Number",
+      "start": 42.42,
+      "end": 42.64
+    },
+    {
+      "word": "6.",
+      "start": 42.64,
+      "end": 43.28
+    },
+    {
+      "word": "151.",
+      "start": 44.86,
+      "end": 46.26
+    },
+    {
+      "word": "Number",
+      "start": 47.64,
+      "end": 47.96
+    },
+    {
+      "word": "7.",
+      "start": 47.96,
+      "end": 48.62
+    },
+    {
+      "word": "1559.",
+      "start": 51.54,
+      "end": 52.94
+    }
+  ],
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 8.76,
+      "text": " Chapter 1. Numbers, dates, addresses, times, and numeral relationships. Numbers.",
+      "tokens": [
+        50364,
+        18874,
+        502,
+        13,
+        22592,
+        1616,
+        11,
+        11691,
+        11,
+        16862,
+        11,
+        1413,
+        11,
+        293,
+        1031,
+        2790,
+        6159,
+        13,
+        22592,
+        1616,
+        13,
+        50815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36882790098799034,
+      "compression_ratio": 1.3953488372093024,
+      "no_speech_prob": 0.3713738024234772,
+      "words": [
+        {
+          "word": " Chapter",
+          "start": 0.0,
+          "end": 1.24,
+          "probability": 0.680959165096283
+        },
+        {
+          "word": " 1.",
+          "start": 1.24,
+          "end": 1.76,
+          "probability": 0.7562722563743591
+        },
+        {
+          "word": " Numbers,",
+          "start": 2.3,
+          "end": 2.74,
+          "probability": 0.9535396099090576
+        },
+        {
+          "word": " dates,",
+          "start": 3.06,
+          "end": 3.22,
+          "probability": 0.6008907556533813
+        },
+        {
+          "word": " addresses,",
+          "start": 3.72,
+          "end": 3.92,
+          "probability": 0.9828221201896667
+        },
+        {
+          "word": " times,",
+          "start": 4.4,
+          "end": 4.72,
+          "probability": 0.9589968323707581
+        },
+        {
+          "word": " and",
+          "start": 5.06,
+          "end": 5.12,
+          "probability": 0.9967986345291138
+        },
+        {
+          "word": " numeral",
+          "start": 5.12,
+          "end": 5.66,
+          "probability": 0.8471327722072601
+        },
+        {
+          "word": " relationships.",
+          "start": 5.66,
+          "end": 6.56,
+          "probability": 0.9881842136383057
+        },
+        {
+          "word": " Numbers.",
+          "start": 7.78,
+          "end": 8.76,
+          "probability": 0.9793352782726288
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 9.5,
+      "end": 18.5,
+      "text": " Listening activity 1. Listen to the tape. You will hear seven numbers. Circle the numbers you hear.",
+      "tokens": [
+        50815,
+        49321,
+        5191,
+        502,
+        13,
+        7501,
+        281,
+        264,
+        7314,
+        13,
+        509,
+        486,
+        1568,
+        3407,
+        3547,
+        13,
+        29381,
+        264,
+        3547,
+        291,
+        1568,
+        13,
+        51339
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36882790098799034,
+      "compression_ratio": 1.3953488372093024,
+      "no_speech_prob": 0.3713738024234772,
+      "words": [
+        {
+          "word": " Listening",
+          "start": 9.5,
+          "end": 10.22,
+          "probability": 0.9346184134483337
+        },
+        {
+          "word": " activity",
+          "start": 10.22,
+          "end": 10.74,
+          "probability": 0.7851120829582214
+        },
+        {
+          "word": " 1.",
+          "start": 10.74,
+          "end": 11.32,
+          "probability": 0.6373493671417236
+        },
+        {
+          "word": " Listen",
+          "start": 12.14,
+          "end": 12.9,
+          "probability": 0.9740526676177979
+        },
+        {
+          "word": " to",
+          "start": 12.9,
+          "end": 13.1,
+          "probability": 0.9967334270477295
+        },
+        {
+          "word": " the",
+          "start": 13.1,
+          "end": 13.24,
+          "probability": 0.9958747029304504
+        },
+        {
+          "word": " tape.",
+          "start": 13.24,
+          "end": 13.58,
+          "probability": 0.9875548481941223
+        },
+        {
+          "word": " You",
+          "start": 14.24,
+          "end": 14.36,
+          "probability": 0.9931297898292542
+        },
+        {
+          "word": " will",
+          "start": 14.36,
+          "end": 14.52,
+          "probability": 0.9833292961120605
+        },
+        {
+          "word": " hear",
+          "start": 14.52,
+          "end": 14.84,
+          "probability": 0.9976460337638855
+        },
+        {
+          "word": " seven",
+          "start": 14.84,
+          "end": 15.38,
+          "probability": 0.6636430025100708
+        },
+        {
+          "word": " numbers.",
+          "start": 15.38,
+          "end": 15.88,
+          "probability": 0.9723487496376038
+        },
+        {
+          "word": " Circle",
+          "start": 16.62,
+          "end": 17.08,
+          "probability": 0.9211242198944092
+        },
+        {
+          "word": " the",
+          "start": 17.08,
+          "end": 17.34,
+          "probability": 0.9965869188308716
+        },
+        {
+          "word": " numbers",
+          "start": 17.34,
+          "end": 17.7,
+          "probability": 0.9971024394035339
+        },
+        {
+          "word": " you",
+          "start": 17.7,
+          "end": 18.1,
+          "probability": 0.9833928942680359
+        },
+        {
+          "word": " hear.",
+          "start": 18.1,
+          "end": 18.5,
+          "probability": 0.9949076771736145
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 1850,
+      "start": 18.5,
+      "end": 43.28,
+      "text": " Number 1. 40. Number 2. 190. Number 3. 13. Number 4. 1,010. Number 5. 70. Number 6.",
+      "tokens": [
+        50364,
+        5118,
+        502,
+        13,
+        3356,
+        13,
+        5118,
+        568,
+        13,
+        37609,
+        13,
+        5118,
+        805,
+        13,
+        3705,
+        13,
+        5118,
+        1017,
+        13,
+        502,
+        11,
+        15,
+        3279,
+        13,
+        5118,
+        1025,
+        13,
+        5285,
+        13,
+        5118,
+        1386,
+        13,
+        51604
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2879499707903181,
+      "compression_ratio": 1.5961538461538463,
+      "no_speech_prob": 0.5112228989601135,
+      "words": [
+        {
+          "word": " Number",
+          "start": 18.5,
+          "end": 20.54,
+          "probability": 0.6289284825325012
+        },
+        {
+          "word": " 1.",
+          "start": 20.54,
+          "end": 20.84,
+          "probability": 0.2705748677253723
+        },
+        {
+          "word": " 40.",
+          "start": 21.76,
+          "end": 22.62,
+          "probability": 0.6272420287132263
+        },
+        {
+          "word": " Number",
+          "start": 23.78,
+          "end": 24.8,
+          "probability": 0.9144914150238037
+        },
+        {
+          "word": " 2.",
+          "start": 24.8,
+          "end": 25.32,
+          "probability": 0.9947813153266907
+        },
+        {
+          "word": " 190.",
+          "start": 26.66,
+          "end": 28.06,
+          "probability": 0.9504719376564026
+        },
+        {
+          "word": " Number",
+          "start": 29.8,
+          "end": 30.04,
+          "probability": 0.9204596281051636
+        },
+        {
+          "word": " 3.",
+          "start": 30.04,
+          "end": 30.56,
+          "probability": 0.9978367686271667
+        },
+        {
+          "word": " 13.",
+          "start": 31.42,
+          "end": 32.32,
+          "probability": 0.9645041227340698
+        },
+        {
+          "word": " Number",
+          "start": 33.64,
+          "end": 34.0,
+          "probability": 0.9901270866394043
+        },
+        {
+          "word": " 4.",
+          "start": 34.0,
+          "end": 34.6,
+          "probability": 0.9983009696006775
+        },
+        {
+          "word": " 1",
+          "start": 35.72,
+          "end": 36.14,
+          "probability": 0.38938286900520325
+        },
+        {
+          "word": ",010.",
+          "start": 36.14,
+          "end": 37.34,
+          "probability": 0.8438740173975626
+        },
+        {
+          "word": " Number",
+          "start": 38.64,
+          "end": 38.98,
+          "probability": 0.9893079400062561
+        },
+        {
+          "word": " 5.",
+          "start": 38.98,
+          "end": 39.58,
+          "probability": 0.9983530044555664
+        },
+        {
+          "word": " 70.",
+          "start": 40.38,
+          "end": 41.3,
+          "probability": 0.870991051197052
+        },
+        {
+          "word": " Number",
+          "start": 42.42,
+          "end": 42.64,
+          "probability": 0.9868595600128174
+        },
+        {
+          "word": " 6.",
+          "start": 42.64,
+          "end": 43.28,
+          "probability": 0.998007595539093
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 4328,
+      "start": 44.86,
+      "end": 52.94,
+      "text": " 151. Number 7. 1559.",
+      "tokens": [
+        50364,
+        2119,
+        16,
+        13,
+        5118,
+        1614,
+        13,
+        2119,
+        19600,
+        13,
+        50950
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43628160158793133,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 0.17264556884765625,
+      "words": [
+        {
+          "word": " 151.",
+          "start": 44.86,
+          "end": 46.26,
+          "probability": 0.48974256962537766
+        },
+        {
+          "word": " Number",
+          "start": 47.64,
+          "end": 47.96,
+          "probability": 0.5776927471160889
+        },
+        {
+          "word": " 7.",
+          "start": 47.96,
+          "end": 48.62,
+          "probability": 0.8646895885467529
+        },
+        {
+          "word": " 1559.",
+          "start": 51.54,
+          "end": 52.94,
+          "probability": 0.661162793636322
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}
